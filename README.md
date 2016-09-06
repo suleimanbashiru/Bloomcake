@@ -1,8 +1,3 @@
-# My Web development journey
+# Bloomcake - Online cake listing from different vendors
 
-Hi my name is suleiman bashiru a intern web developer the web developer of the season with an eye for design
-will be doing some dev jobs lately know
-
-Konwing how to work on the best software in the world is freeing
-
-Watch out for more post here
+A site where people can come and book cake from different vendors in Lagos.
