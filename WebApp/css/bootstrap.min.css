@@ -13,7 +13,7 @@
          background-image: url(cake%202.jpg);
          height: 300px;
          width: 100%;
-         background-size: cover;
+         background-size: ;
     
 }
 
@@ -110,6 +110,10 @@
 
 .headerfont {
     font-size: 60px;
+    /*margin-top: 190px;*/
+    font-family: 'futura-pt';
+    font-weight: 700;
+    text-shadow: 0px 3px 7px rgba(0,0,0,0.35);
 }
 
 .lead {
