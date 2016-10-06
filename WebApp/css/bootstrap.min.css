@@ -10,7 +10,7 @@
 
 
 #topContainer {
-         background-image: url(cake%202.jpg);
+        background-image: url(cake%202.jpg);
          height: 300px;
          width: 100%;
          background-size: ;
@@ -45,7 +45,7 @@
 
 #footer {
     background-color:black;
-    padding-top: 70px;
+    padding-top: px;
     width: 100%;
     
 }
@@ -71,7 +71,7 @@
 }
 
 .center {
-    margin-top: 30px;
+    margin-top: px;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 50px;
@@ -87,7 +87,7 @@
 }
 
 .textalign {
-    margin-top: 50px;
+    margin-top: px;
 }
 
 .form1 {
@@ -95,7 +95,7 @@
 }
 
 .firsttop {
-    margin-top: 40px;
+    margin-top: px;
 }
 
 
