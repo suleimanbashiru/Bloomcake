@@ -126,13 +126,14 @@
 .headerfont {
     font-size: 60px;
     /*margin-top: 190px;*/
-    font-family: ;
+    font-family:font-family: 'Product Sans', Arial, sans-serif; 
     font-weight: 700;
     text-shadow: 0px 3px 7px rgba(0,0,0,0.35);
 }
 
 .lead {
     font-size: 50px,
+     font-family:font-family: 'Product Sans', Arial, sans-serif; 
 }
 
 .leadcenter {
