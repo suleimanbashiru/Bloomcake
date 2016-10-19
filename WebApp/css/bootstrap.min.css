@@ -12,8 +12,9 @@
 .navbar-brand {
     
     font-size: 45px;
+    font-weight:bold;
     text-align: right;
-    font-family: 'Lobster', cursive;
+    font-family: font-family: 'Product Sans', Arial, sans-serif;
 }
 
 
